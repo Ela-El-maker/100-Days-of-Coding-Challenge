@@ -1,0 +1,5 @@
+members = (('Kate', 23), ('Tom',19))
+member_1=(('John',26))
+member_2=(members,member_1)
+members = (members[0], ('John', 26), members[1])
+print(members)
