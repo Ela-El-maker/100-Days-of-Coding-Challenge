@@ -121,9 +121,7 @@ Day 040: Convolutional Neural Networks (CNNs) with TensorFlow
    - Explore convolutional neural networks (CNNs) in TensorFlow for image classification, object detection, and image generation tasks.
 
 Day 041: Recurrent Neural Networks (RNNs) with TensorFlow
-   - Learn about recurrent neural networks (RNN
-
-s) in TensorFlow for sequential data analysis, including text generation and time series prediction.
+   - Learn about recurrent neural networks (RNNs) in TensorFlow for sequential data analysis, including text generation and time series prediction.
 
 Day 042: Introduction to Natural Language Processing (NLP) with NLTK
    - Get introduced to natural language processing (NLP) with the Natural Language Toolkit (NLTK) in Python, and understand its capabilities for text analysis.
