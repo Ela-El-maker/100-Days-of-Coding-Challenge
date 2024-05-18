@@ -14,7 +14,7 @@
 
 ## In Python
 def linearSearch(input,searchValue):
-  for i in range(0,len(input)):
+  for i in range(len(input)):
     if input[i] == searchValue:
       return True
   return False
