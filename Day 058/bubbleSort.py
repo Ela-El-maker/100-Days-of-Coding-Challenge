@@ -24,4 +24,6 @@ def letSwap(array):
 
 array = [11,33,66,77,4,33,22,55,73]
 letSwap(array)
-  
+
+
+### Wrong algorithm
