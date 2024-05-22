@@ -16,3 +16,22 @@
 #   }
 # }
 
+def selectionSort(array,size):
+  for step in range(size):
+    minIndex = step 
+
+    for i in range(step + 1, size):
+      # select the minimum element in each loop
+      if array[i] < array[minIndex]:
+        minIndex = i 
+
+    (array[step],array[minIndex]) = (array[minIndex], array[step])
+
+
+data = [-2,45,0,11,44,22,33,9]
+size = len(data)
+selectionSort(data,size)
+
+print("Sorted Array : ")
+print(data)
+      
